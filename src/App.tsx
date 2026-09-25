@@ -819,21 +819,12 @@ function App() {
           <p>
             In order to resolve a complaint regarding the Services or to receive
             further information regarding use of the Services, please contact us
-            at:
-          </p>
-          <p>
-            <strong>Isotope Core</strong>
-            <br />
-            <strong>Sichovykh Striltsiv st.</strong>
-            <br />
-            <strong>Stara Syniava, 29000</strong>
-            <br />
-            <strong>Ukraine</strong>
-            <br />
+            at:{" "}
             <a href="mailto:isotopecore@gmail.com" className="email-link">
               isotopecore@gmail.com
             </a>
           </p>
+
         </section>
       </main>
 
